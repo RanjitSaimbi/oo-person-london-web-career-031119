@@ -74,6 +74,10 @@ class Person
       person.happiness = person.happiness - 2
       self.happiness = @happiness - 2
       "blah blah partisan blah lobbyist"
+    elsif topic == "weather"
+      person.happiness = person.happiness + 2
+      self.happiness = @happiness + 2
+      "blah blah partisan blah lobbyist"
   end 
   
 end 
