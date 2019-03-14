@@ -79,7 +79,7 @@ class Person
       self.happiness = @happiness + 2
       "blah blah sun blah rain"
     else
-      
+    end 
   end 
   
 end 
