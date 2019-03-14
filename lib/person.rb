@@ -53,7 +53,7 @@ class Person
   
   def take_bath (cleanliness)
     hygiene(4)
-    ""
+    "♪ Rub-a-dub just relaxing in the tub ♫"
   end 
   
 end 
