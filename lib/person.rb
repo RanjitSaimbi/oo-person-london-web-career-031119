@@ -51,8 +51,9 @@ class Person
     "all about the benjamins"
   end 
   
-  def take_bath
-    
+  def take_bath (cleanliness)
+    hygiene(4)
+    ""
   end 
   
 end 
