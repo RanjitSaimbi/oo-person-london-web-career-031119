@@ -47,5 +47,7 @@ class Person
   end
   
   def get_paid 
+    
+  end 
   
 end 
