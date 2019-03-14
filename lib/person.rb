@@ -59,6 +59,7 @@ class Person
   
   def work_out
     self.happiness = @happiness + 2
+    
   end 
   
 end 
