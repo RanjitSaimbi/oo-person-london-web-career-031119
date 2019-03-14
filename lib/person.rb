@@ -78,6 +78,7 @@ class Person
       person.happiness = person.happiness + 2
       self.happiness = @happiness + 2
       "blah blah sun blah rain"
+      elsif 
   end 
   
 end 
