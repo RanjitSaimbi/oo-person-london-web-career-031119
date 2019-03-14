@@ -46,7 +46,7 @@ class Person
     end 
   end
   
-  def get_paid=(cash) 
+  def get_paid (cash) 
     @bank_account += cash
     "all about the benjamins"
   end 
